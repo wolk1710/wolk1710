@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="390" viewBox="0 0 640 390" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">wolk1710 — Stay curious. Make things.</title>
+  <desc id="desc">A compact charcoal and lime banner with the Wolk wordmark and an orbital cloud.</desc>
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#F0F3E9" stroke-opacity=".045"/></pattern></defs>
+  <rect width="640" height="390" rx="24" fill="#111611"/>
+  <rect width="640" height="390" rx="24" fill="url(#grid)"/>
+  <path d="M36 30H604M36 357H604" stroke="#303A2C"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="40" y="77" fill="#B7C1AF" font-size="23" letter-spacing="4">WOLK1710</text>
+    <text x="32" y="247" fill="#F0F3E9" font-size="148" font-weight="700" letter-spacing="-9">wolk<tspan fill="#C5F277">.</tspan></text>
+    <text x="40" y="311" fill="#D1DBC9" font-size="32" letter-spacing="-1">Stay curious. Make things.</text>
+  </g>
+  <g transform="translate(477 174)">
+    <circle r="86" stroke="#3A4B32"/>
+    <ellipse rx="115" ry="42" transform="rotate(-35)" stroke="#829E6D"/>
+    <path d="M-53 28C-73 28-82 16-80 2C-79-10-70-19-58-20C-54-42-35-53-16-48C4-61 33-48 36-29C57-30 76-12 73 10C90 17 83 36 63 36H-53" fill="#1C2819" stroke="#C5F277" stroke-width="2.5"/>
+    <path d="M-31-9L-44 3L-31 15M-4-16L-16 20M12-9L25 3L12 15" stroke="#D6F79A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="87" cy="-65" r="6" fill="#C5F277"/>
+  </g>
+</svg>
