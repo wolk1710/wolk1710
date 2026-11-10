@@ -40,18 +40,6 @@ This is my corner of GitHub — a place for ideas, discoveries, and whatever com
   </tr>
 </table>
 
-### From my bookmarks
-
-A few open-source finds from my [starred collection](https://github.com/wolk1710?tab=stars):
-
-- **[ECC](https://github.com/affaan-m/ECC)** — skills and workflows for coding agents.
-- **[Hallmark](https://github.com/Nutlope/hallmark)** — bringing more care to AI-assisted interface design.
-- **[Coucou](https://github.com/Louis-CFM/coucou)** — a little companion for keeping an eye on coding agents.
-
-### Beyond the code
-
-Find me on **[daily.dev](https://app.daily.dev/wolk1710)**.
-
 <details>
   <summary>Take a look at my developer card</summary>
   <br />
